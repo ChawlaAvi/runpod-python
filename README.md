@@ -1,5 +1,8 @@
 <div align="center">
-<h1>Runpod | Python Library </h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChawlaAvi/runpod-python/main/runpod-logo.png" width="300">
+</p>
+
 
 [![PyPI Package](https://badge.fury.io/py/runpod.svg)](https://badge.fury.io/py/runpod)
 &nbsp;
@@ -11,10 +14,11 @@
 &nbsp;
 [![CI | CodeQL](https://github.com/runpod/runpod-python/actions/workflows/CI-codeql.yml/badge.svg)](https://github.com/runpod/runpod-python/actions/workflows/CI-codeql.yml)
 
+
+<h2>The cloud built for AI workloads</h2>
 </div>
 
-Welcome to the official Python library for Runpod API &amp; SDK.
-
+Runpod is the end-to-end AI cloud that simplifies building and deploying models. Launch a pod in seconds, deploy globally with a few clicks and scale on autopilot with Serveless.
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
